@@ -1,0 +1,8 @@
+digitalWrite( pin, state )
+
+The digitalWrite command sets the value of a digital pin.
+
+The pin parameter determines which pin you are setting and the state parameter determines whether the pin will be HIGH or LOW.
+
+------------------------------------------------------------------------
+This folder contains the Modkit Micro docs for the digitalWrite block. 
