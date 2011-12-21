@@ -5,4 +5,6 @@ The digitalWrite command sets the value of a digital pin.
 The pin parameter determines which pin you are setting and the state parameter determines whether the pin will be HIGH or LOW.
 
 ------------------------------------------------------------------------
-This folder contains the Modkit Micro docs for the digitalWrite block. 
+This folder contains data that Modkit Micro uses to generate docs for the digitalWrite block. The above docs were automatically generated from the data in this folder. 
+
+Most simple edits can be made directly to this file by forking it and issuing a pull request.  If accepted by the Modkit team,  your edits will then be merged back into the correct format. If you are making substantial edits, you may need to familiarize yourself with the individual subdirectories and files and/or to edit them directly.
